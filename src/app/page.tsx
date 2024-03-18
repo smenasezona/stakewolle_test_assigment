@@ -1,5 +1,9 @@
+import Metamask from '@/components/Metamask'
+
 export default function Home() {
-    return (
-        <main>hello</main>
-    )
+	return (
+		<main>
+			<Metamask />
+		</main>
+	)
 }
