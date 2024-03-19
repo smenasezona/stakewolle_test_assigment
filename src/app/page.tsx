@@ -1,9 +1,9 @@
-import Metamask from '@/components/Metamask'
+import MetaMaskConnector from "@/components/MetaMaskConnector";
 
 export default function Home() {
-	return (
-		<main>
-			<Metamask />
-		</main>
-	)
+    return (
+        <main>
+            <MetaMaskConnector/>
+        </main>
+    )
 }

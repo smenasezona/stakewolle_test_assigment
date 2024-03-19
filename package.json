@@ -13,7 +13,7 @@
     "@emotion/styled": "^11.11.0",
     "@ethersproject/providers": "^5.7.2",
     "@metamask/detect-provider": "^2.0.0",
-    "@mui/material": "^5.15.13",
+    "@mui/material": "^5.15.14",
     "ethers": "^6.11.1",
     "next": "14.1.3",
     "notistack": "^3.0.1",
